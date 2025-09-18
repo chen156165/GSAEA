@@ -1,6 +1,5 @@
 function para = RBF_Create(ax, ay, kernel)
 
-% This function is written by Jianqing Lin
 
 [N, D] = size(ax);
 

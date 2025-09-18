@@ -1,6 +1,5 @@
 function Surrogate_Obj=RBF_Predictor(X, Surrogate_model, M)
 
-% This function is written by Jianqing Lin
 
     N  = size(X,1);
     Surrogate_Obj = zeros(N,M);
